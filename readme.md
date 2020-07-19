@@ -1,7 +1,7 @@
 <h1><center>Predicting Video Game Success</center></h1>
 <center>Ben Urban</center>
 
-![image](consoles.jpg)
+<center>![image](consoles.jpg)</center>
 
 <h2>Introduction</h2>
 The video game industry is one of the fastest growing forms of entertainment out there right now. Hundreds of new games are released every year all with different styles across multiple platforms. Some games are absolute masterpieces and loved by millions, while others get no attention at all. All developers have the same thought on their mind: "How can I make the best game possible?"
